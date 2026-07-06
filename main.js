@@ -73,7 +73,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!4v1783031093435!6m8!1m7!1snzyDwVpBT2qllKSkRfypaA!2m2!1d-35.55429220007816!2d-60.56171177394739!3f109.21!4f-17.189999999999998!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>',
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340.265314609566!2d-62.85271132459842!3d-33.15466088242459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95ceca955d0023fd%3A0x376ebd85ba548d6a!2sDoctor%20Dario%20Galassi%20124%2C%20X2657%20Laborde%2C%20C%C3%B3rdoba!5e0!3m2!1ses!2sar!4v1783375951028!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>',
         
         
     })
